@@ -111,3 +111,4 @@ This project is developed for educational and research purposes only.
 
 We would like to express our gratitude to our mentors, faculty members, open-source contributors, 
 and everyone who supported the successful development of this project.
+<img width="1889" height="807" alt="Screenshot 2026-05-08 232159" src="https://github.com/user-attachments/assets/c18e9016-de9c-443b-9191-8b2c49438fdb" />
